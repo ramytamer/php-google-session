@@ -14,7 +14,7 @@
 2. Then download all files or clone it in `demo` folder inside your `www` directory or whatever your server root is.
 3. Then run `bower install`, check this [link](http://bower.io) if you don't have/know what is *bower* 
 
-  3.1 Of course you can replace bower files with cdn links for (bootstrap - flat-ui css), but it will not be available for local offline development
+  3.1 Of course you can replace bower files with cdn links for (bootstrap - flat-ui css) , but it will not be available for local offline development
 4. Just go to `http://127.0.0.1` or `http://localhost` on your machine & you are good to go.
 
 ---
